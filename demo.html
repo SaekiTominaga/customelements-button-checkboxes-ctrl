@@ -18,17 +18,13 @@
 			const checkButtonElement = document.createElement('button', { is: 'x-checkboxes-ctrl' });
 			checkButtonElement.dataset.course = 'check';
 			checkButtonElement.dataset.targetFor = 'checkboxes4';
-			const checkButtonContent = `
-Check all`;
-			checkButtonElement.insertAdjacentHTML('afterbegin', checkButtonContent);
+			checkButtonElement.textContent = 'Check all';
 			document.getElementById('js-generate-check').replaceWith(checkButtonElement);
 
 			const uncheckButtonElement = document.createElement('button', { is: 'x-checkboxes-ctrl' });
 			uncheckButtonElement.dataset.course = 'uncheck';
 			uncheckButtonElement.dataset.targetFor = 'checkboxes4';
-			const uncheckButtonContent = `
-Uncheck all`;
-			uncheckButtonElement.insertAdjacentHTML('afterbegin', uncheckButtonContent);
+			uncheckButtonElement.textContent = 'Uncheck all';
 			document.getElementById('js-generate-uncheck').replaceWith(uncheckButtonElement);
 		</script>
 	</head>
