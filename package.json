@@ -30,6 +30,11 @@
 		"type": "git",
 		"url": "git+https://github.com/SaekiTominaga/customelements-button-checkboxes-ctrl.git"
 	},
+	"keywords": [
+		"web-components",
+		"custom-elements",
+		"checkbox"
+	],
 	"author": "Saeki Tominaga",
 	"license": "MIT",
 	"bugs": {
