@@ -1,6 +1,6 @@
 {
 	"name": "@saekitominaga/customelements-button-checkboxes-ctrl",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"description": "Button to check / uncheck all checkboxes by Custom Elements.",
 	"keywords": [
 		"web-components",
