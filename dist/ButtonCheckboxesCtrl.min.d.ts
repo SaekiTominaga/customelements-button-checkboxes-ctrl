@@ -13,4 +13,4 @@ export default class ButtonCheckboxesCtrl extends HTMLButtonElement {
      */
     private _clickEvent;
 }
-//# sourceMappingURL=ButtonCheckboxesCtrl.esm.d.ts.map
+//# sourceMappingURL=ButtonCheckboxesCtrl.d.ts.map

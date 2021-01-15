@@ -95,3 +95,4 @@ export default class ButtonCheckboxesCtrl extends HTMLButtonElement {
     }
 }
 _course = new WeakMap(), _checkboxElements = new WeakMap();
+//# sourceMappingURL=ButtonCheckboxesCtrl.js.map
