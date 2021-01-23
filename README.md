@@ -10,7 +10,7 @@ Button to select / deselect all checkboxes by Custom Elements.
 
 ## Examples
 
-```
+```HTML
 <button type="button" is="x-checkboxes-ctrl"
   data-course="check"
   data-target-for="checkboxes1"
